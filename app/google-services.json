@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "632607278211",
+    "project_id": "android-toptok",
+    "storage_bucket": "android-toptok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632607278211:android:9ea012fba004083da047b6",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeELvyG7nBYFizMQHb6xbqlvFVhW5Ietc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632607278211:android:95e3e84cb4d59278a047b6",
+        "android_client_info": {
+          "package_name": "com.wistron.analyticsmothed1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632607278211-5g6cvp52kn1ktdbh3e51ihvamt1kcats.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wistron.analyticsmothed1",
+            "certificate_hash": "13d5428b10cdfd602fcec8ec823cf6e8293f2520"
+          }
+        },
+        {
+          "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeELvyG7nBYFizMQHb6xbqlvFVhW5Ietc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632607278211:android:1ee8a244ef84f4fea047b6",
+        "android_client_info": {
+          "package_name": "com.wistron.dialogflowbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeELvyG7nBYFizMQHb6xbqlvFVhW5Ietc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632607278211:android:e1e0d782b22aff6ea047b6",
+        "android_client_info": {
+          "package_name": "com.wistron.firebase.quickstart.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeELvyG7nBYFizMQHb6xbqlvFVhW5Ietc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632607278211-tr19ndetej3g8qqfj5821gsoauje0h2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
